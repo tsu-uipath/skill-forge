@@ -1,0 +1,4 @@
+interface:
+  display_name: "HAR Analyzer + KQL Generator"
+  short_description: "Analyze HAR failures and generate AppInsights KQL"
+  default_prompt: "Use $har-analyzer-kql-generator to inspect a HAR file, identify failed or slow requests, and generate AppInsights KQL."

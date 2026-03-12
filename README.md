@@ -14,6 +14,7 @@ Or copy a skill folder from `skills/` into `~/.codex/skills/`.
 
 ## Available skills
 
+- `har-analyzer-kql-generator`
 - `living-summary`
 - `sf-case-attachment-downloader`
 - `sf-open-case-timezone-filter`
