@@ -1,4 +1,0 @@
-interface:
-  display_name: "AMER Platform Cases Overview"
-  short_description: "Pull and chart AMER platform cases"
-  default_prompt: "Use $amer-platform-cases-overview to pull open non-resolved AMER platform cases and generate an owner breakdown chart."

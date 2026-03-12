@@ -14,7 +14,6 @@ Or copy a skill folder from `skills/` into `~/.codex/skills/`.
 
 ## Available skills
 
-- `amer-platform-cases-overview`
 - `living-summary`
 - `sf-case-attachment-downloader`
 - `sf-open-case-timezone-filter`
