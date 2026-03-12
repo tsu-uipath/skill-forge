@@ -1,0 +1,4 @@
+interface:
+  display_name: "SF Open Case TZ Filter"
+  short_description: "List my open unresolved cases by timezone/support preference"
+  default_prompt: "Use $sf-open-case-timezone-filter to pull my open unresolved Salesforce cases and list cases where timezone is non-US or support availability preference is 24/7."

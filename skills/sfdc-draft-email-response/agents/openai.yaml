@@ -1,0 +1,4 @@
+interface:
+  display_name: "SFDC Draft email response"
+  short_description: "Draft SFDC case replies with proper linkage"
+  default_prompt: "Use $sfdc-draft-email-response to draft a Salesforce case reply with sf CLI commands only while preserving signature and reply/thread/contact linkage."

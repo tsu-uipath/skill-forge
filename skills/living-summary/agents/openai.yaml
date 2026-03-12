@@ -1,0 +1,4 @@
+interface:
+  display_name: "Living Summary"
+  short_description: "Generate and sync SFDC living summaries"
+  default_prompt: "Use $living-summary to fetch SFDC case email history, generate a structured technical summary, and update Case fields Problem__c, Cause__c, Validation__c, Solution__c, and Solution_Instructions__c via sf CLI."

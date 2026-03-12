@@ -1,0 +1,3 @@
+interface:
+  display_name: "SFDC Case URL"
+  short_description: "Find Salesforce Lightning case URL from CaseNumber using sf CLI"
