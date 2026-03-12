@@ -1,0 +1,4 @@
+interface:
+  display_name: "SF Case Attachment Downloader"
+  short_description: "Download SFDC case attachments and files"
+  default_prompt: "Download all Salesforce case attachments/files for a given case number using sf CLI."
