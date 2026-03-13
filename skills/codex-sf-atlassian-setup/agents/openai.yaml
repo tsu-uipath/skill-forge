@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex SF + Atlassian Setup"
+  short_description: "Bootstrap Codex for SF and Atlassian"
+  default_prompt: "Use $codex-sf-atlassian-setup to bootstrap Salesforce CLI and Atlassian MCP for Codex on macOS or Windows."
