@@ -1,0 +1,4 @@
+interface:
+  display_name: "Close Tabs"
+  short_description: "Close browser tabs by title or URL match"
+  default_prompt: "Use $close-tabs to close tabs in a chosen browser by matching tab title or URL."

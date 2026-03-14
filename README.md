@@ -15,6 +15,7 @@ Or copy a skill folder from `skills/` into `~/.codex/skills/`.
 ## Available skills
 
 - `amer-platform-cases-overview`
+- `close-tabs`
 - `codex-sf-atlassian-setup`
 - `har-analyzer-kql-generator`
 - `living-summary`
